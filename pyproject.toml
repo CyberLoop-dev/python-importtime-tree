@@ -1,0 +1,9 @@
+[project]
+name = "python-importtime-tree"
+version = "1.0.0"
+description = "Turn CPython import-time logs into a readable hierarchical cost report."
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.unittest]
+start-directory = "tests"
